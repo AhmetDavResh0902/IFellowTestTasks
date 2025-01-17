@@ -1,1 +1,2 @@
-#Решения для тестовых заданий IFellow Academy
+# IFellowTestTasks
+Решения для тестовых заданий IFellow Academy
